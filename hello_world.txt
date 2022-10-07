@@ -1,0 +1,2 @@
+Hello world!
+This is an example .txt file to practice how to use the command line integrated with Git.
